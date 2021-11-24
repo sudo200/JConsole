@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JConsole">
+    <output-path>$PROJECT_DIR$/out/artifacts/JConsole</output-path>
+    <root id="archive" name="JConsole.jar">
+      <element id="module-output" name="JConsole" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/at/sudo200/JConsole/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="directory" name="at">
+        <element id="directory" name="sudo200">
+          <element id="directory" name="JConsole">
+            <element id="directory" name="lib">
+              <element id="dir-copy" path="$PROJECT_DIR$/src/at/sudo200/JConsole/lib" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
